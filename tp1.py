@@ -20,6 +20,9 @@ BASE_RAW_URLS = [
     "https://raw.githubusercontent.com/alsyundawy/TrustPositif/refs/heads/main/gambling_indonesia_002.txt"
     "https://raw.githubusercontent.com/alsyundawy/TrustPositif/refs/heads/main/gambling_indonesia_003.txt"
     "https://raw.githubusercontent.com/alsyundawy/TrustPositif/refs/heads/main/gambling_indonesia_domainonly.txt"
+    "https://raw.githubusercontent.com/alsyundawy/TrustPositif/refs/heads/main/doh-onlydomains.txt"
+    "https://raw.githubusercontent.com/alsyundawy/TrustPositif/refs/heads/main/gambling-onlydomains.txt"
+    
 ]
 
 # Spinner
